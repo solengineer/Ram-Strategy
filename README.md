@@ -1,4 +1,7 @@
-# 🐏 Ram Strategy ($RAM)
+# Ram Strategy ($RAM)
+
+<img width="357" height="370" alt="Capture d’écran 2026-01-28 à 23 25 15" src="https://github.com/user-attachments/assets/da0fef80-6d41-415e-925d-0ba2b50ab4e4" />
+
 
 > **An experimental, treasury-backed memecoin that exploits inefficiencies in the RAM hardware market**
 
@@ -70,6 +73,8 @@ Ram Strategy is a fully autonomous system that:
 ---
 
 ## 🏗️ Architecture
+
+<img width="1024" height="1536" alt="ChatGPT Image 28 janv  2026, 23_33_37" src="https://github.com/user-attachments/assets/2966a9af-3627-4fd8-aa46-f0fb4001381d" />
 
 ### Components
 
