@@ -1,6 +1,8 @@
 # Ram Strategy ($RAM)
 
-<img width="357" height="370" alt="Capture d’écran 2026-01-28 à 23 25 15" src="https://github.com/user-attachments/assets/da0fef80-6d41-415e-925d-0ba2b50ab4e4" />
+<img width="951" height="325" alt="Capture d’écran 2026-01-28 à 23 28 20" src="https://github.com/user-attachments/assets/b6c012ac-2b31-4330-9c37-bb1d572a052a" />
+
+https://x.com/ramstrategyy
 
 
 > **An experimental, treasury-backed memecoin that exploits inefficiencies in the RAM hardware market**
