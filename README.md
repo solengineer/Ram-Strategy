@@ -1,5 +1,7 @@
 # Ram Strategy ($RAM)
 
+CA: G7ZBngUgjCJKTwjAWEAptoUTUrJTZRqKaExudJoQpump
+
 <img width="951" height="325" alt="Capture d’écran 2026-01-28 à 23 28 20" src="https://github.com/user-attachments/assets/b6c012ac-2b31-4330-9c37-bb1d572a052a" />
 
 https://x.com/ramstrategyy
