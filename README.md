@@ -12,7 +12,7 @@ https://x.com/ramstrategyy
 
 ---
 
-## 🎯 Core Concept
+## Core Concept
 
 Ram Strategy is a fully autonomous system that:
 1. Collects creator fees from $RAM token trading
